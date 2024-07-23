@@ -12,21 +12,7 @@ body {
 .card {
   width: 90%;
   max-width: 470px;
-  background: linear-gradient(
-    45deg,
-    hsl(120deg 100% 25%) 0%,
-    hsl(89deg 100% 32%) 9%,
-    hsl(76deg 100% 39%) 18%,
-    hsl(66deg 100% 46%) 27%,
-    hsl(58deg 100% 50%) 36%,
-    hsl(52deg 100% 50%) 45%,
-    hsl(46deg 100% 50%) 55%,
-    hsl(41deg 100% 50%) 64%,
-    hsl(35deg 100% 50%) 73%,
-    hsl(27deg 100% 50%) 82%,
-    hsl(19deg 100% 50%) 91%,
-    hsl(0deg 100% 50%) 100%
-  );
+  background: linear-gradient(135deg, red, green);
   color: #f5f5f5;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);
   margin: 70px auto 0;
